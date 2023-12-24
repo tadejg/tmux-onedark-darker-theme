@@ -1,10 +1,10 @@
 #!/bin/bash
 onedark_black="#282c34"
-onedark_blue="#61afef"
-onedark_yellow="#e5c07b"
-onedark_red="#e06c75"
-onedark_white="#aab2bf"
-onedark_green="#98c379"
+onedark_blue="#4fa6ed"
+onedark_yellow="#e2b86b"
+onedark_red="#e55561"
+onedark_white="#a0a8b7"
+onedark_green="#8ebd6b"
 onedark_visual_grey="#3e4452"
 onedark_comment_grey="#5c6370"
 
